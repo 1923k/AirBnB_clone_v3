@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 > Kefuoe Sole - [Github](https://github.com/1923k)
+  ----------------------------------------------------------
 > Aklilu Abay 
 
 ## License
